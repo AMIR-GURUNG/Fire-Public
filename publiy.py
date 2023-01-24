@@ -1,2 +1,0 @@
-import beby 
-beby.amir()
