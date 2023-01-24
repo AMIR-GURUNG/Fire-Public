@@ -1,0 +1,2 @@
+import beby 
+beby.amir()
